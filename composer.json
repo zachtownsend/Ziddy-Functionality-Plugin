@@ -1,0 +1,8 @@
+{
+    "require": {
+        "wordplate/acf": "^6.0",
+        "johnbillion/extended-cpts": "^4.2",
+        "guzzlehttp/guzzle": "^6.3",
+        "curl/curl": "^2.1"
+    }
+}
